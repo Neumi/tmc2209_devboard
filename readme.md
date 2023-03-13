@@ -20,8 +20,8 @@ Production cost incl assembly is around 50€ for 5pcs. THT components not inclu
 Feedback is very welcome!
  
 <img alt="PCB 3d view" src="/images/3d_view.png">
-<img alt="PCB layout" src="/images/layout.png">
 <img alt="top view" src="/images/top_view.png">
-
+<img alt="top view" src="/images/order_layout.png">
+<img alt="PCB layout" src="/images/layout.png">
 
 
