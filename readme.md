@@ -18,7 +18,8 @@ KICAD and production files for JLCPCB are also included. Code will follow.
 Production cost incl assembly is around 50€ for 5pcs. THT components not included.
 
 Feedback is very welcome!
- 
+
+<img alt="PCB assembly perspectives" src="/images/perspectives.png">
 <img alt="PCB 3d view" src="/images/3d_view.png">
 <img alt="top view" src="/images/top_view.png">
 <img alt="top view" src="/images/order_layout.png">
