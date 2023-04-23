@@ -470,7 +470,7 @@
       "idf": "../../../../Desktop/ethersweep.emn",
       "netlist": "ethersweep.net",
       "specctra_dsn": "../../../../Desktop/ethersweep.dsn",
-      "step": "../../devboard.STEP",
+      "step": "tmc2209_devboard_103.STEP",
       "vrml": "ethersweep.wrl"
     },
     "page_layout_descr_file": ""
