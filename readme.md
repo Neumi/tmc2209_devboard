@@ -6,10 +6,11 @@ This board should cover all options and IOs that Trinamic provides for its TMC22
 Facts:
  - All TMC2209 pins are connected to digital pins of the Arduino. 
  - XT30 power connector
- - voltage source selector Arduino VIN OR XT30
+ - voltage source selector Arduino VIN or XT30
  - TVS diodes on 5v and 28V lane of the TMC2209
- - different wiring schemes for the JST motor connector (WHAT A MESS IT ALWAYS WAS TO GET THE RIGHT PHASES!)
+ - different wiring schemes for the JST motor connector (because getting the right phases is not easy apparently!)
  - different current setting selectable with solder bridges (or custom resistor also possible)
+ - motor voltage sensing via voltage divider on A0
  - reset button for Arudino + power LED
 
 
